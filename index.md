@@ -5,15 +5,17 @@ title: Bootstrap 4 Github Pages
 
 <nav class="navbar navbar-default">
     <div class="container">
-        <!-- 2.ヘッダ情報 -->
         <div class="navbar-header">
-            <a class="navbar-brand">在庫管理システム</a>
+            <a class="navbar-brand">TUBG</a>
         </div>
-        <!-- 3.リストの配置 -->
         <ul class="nav navbar-nav">
-            <li class="active"><a href="#">本部からのお知らせ</a></li>
-            <li><a href="#">在庫確認</a></li>
-            <li><a href="#">入出庫登録</a></li>
+            <li class="active"><a href="#">Introduction</a></li>
+            <li><a href="#">Fee</a></li>
+            <li><a href="#">Access</a></li>
+            <li><a href="#">Eigyoujikan</a></li>
+            <li><a href="#">GOODS</a></li>
+            <li><a href="#">Food & Restaurant</a></li>
+            <li><a href="#">Event</a></li>
         </ul>
         <!-- 4.ボタン -->
         <button type="button" class="btn btn-default navbar-btn">
