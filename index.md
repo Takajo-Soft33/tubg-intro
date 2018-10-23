@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bootstrap 4 Github Pages
+title: TUBG Tokuyama Unknown's Battle Ground
 ---
 
 <nav class="navbar navbar-default">
@@ -24,3 +24,4 @@ title: Bootstrap 4 Github Pages
     </div>
 </nav>
 
+<small>This site is fiction.</small>
