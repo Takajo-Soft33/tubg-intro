@@ -3,7 +3,6 @@ layout: page
 title: Bootstrap 4 Github Pages
 ---
 
-<!-- 1.ナビゲーションバーの設定 -->
 <nav class="navbar navbar-default">
     <div class="container">
         <!-- 2.ヘッダ情報 -->
