@@ -33,6 +33,7 @@ title: フード＆レストラン
     transform: translate(-50%, -50%);
   }
 </style>
+
 <h2>つくしカフェ<div class="tukusi"><img src="ソフトウェア工学image/つくしカフェ.png"></div></h2>
 ### メニュー
 <table class="table-striped">
