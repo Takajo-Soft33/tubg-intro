@@ -17,11 +17,15 @@ title: フード＆レストラン
 
 <style>
   .tukusi{
+    display: inline-block;
     width:180px;
     height:180px;
     overflow: hidden;
   }
   .tukusi > img {
+    display: block;
+    width: 4724px;
+    height: 4724px;
     position: relative;
     left: 50%;
     top: 50%;
