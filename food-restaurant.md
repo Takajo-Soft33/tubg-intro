@@ -19,13 +19,14 @@ title: フード＆レストラン
   .tukusi{
     display: inline-block;
     width:240px;
-    height:180px;
+    height:200px;
     overflow: hidden;
   }
   .tukusi > img {
     display: block;
-    width: 4724px !important;
-    height: 4724px !important;
+    width: 2000px;
+    height: 2000px;
+    max-width: none;
     position: relative;
     left: 50%;
     top: 50%;
