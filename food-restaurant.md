@@ -1,13 +1,28 @@
 ## レストラン「TUBG」
 ### メニュー
-<table>
-  <td>TUBGハンバーガー <img alt="ハンバーガー" src="ソフトウェア工学image/food_hamburger.png"></td><td>¥600</td>
-  <td>TUBG牛ステーキ <img alt="ステーキ" src="ソフトウェア工学image/food_beefsteak.png"></td><td>¥1,200</td>
-  <td>TUBGハンバーグ <img alt="ハンバーグ" src="ソフトウェア工学image/cooking_skillet_hamburg.png"></td><td>¥1,100</td>
-  <td>TUBGロコモコ丼 <img alt="ロコモコ丼" src="ソフトウェア工学image/food_locomoco_don.png"></td><td>¥1,000</td>
-  <td>TUBGピッツァ <img alt="本格ピッツア" src="ソフトウェア工学image/food_pizza.png"></td><td>¥1,000</td>
+<table class="table-striped">
+  <tr><th>メニュー</th><th>料金</th></tr>
+  <tr><td>TUBGハンバーガー <img alt="ハンバーガー" src="ソフトウェア工学image/food_hamburger.png"></td><td>¥600</td></tr>
+  <tr><td>TUBG牛ステーキ <img alt="ステーキ" src="ソフトウェア工学image/food_beefsteak.png"></td><td>¥1,200</td></tr>
+  <tr><td>TUBGハンバーグ <img alt="ハンバーグ" src="ソフトウェア工学image/cooking_skillet_hamburg.png"></td><td>¥1,100</td></tr>
+  <tr><td>TUBGロコモコ丼 <img alt="ロコモコ丼" src="ソフトウェア工学image/food_locomoco_don.png"></td><td>¥1,000</td></tr>
+  <tr><td>TUBGピッツァ <img alt="本格ピッツア" src="ソフトウェア工学image/food_pizza.png"></td><td>¥1,000</td></tr>
+</table>
+
+#### つくしメニュー
+<style>.tukusi{display:block;width:360px;height:360px}</style>
+<table class="table-striped">
+  <tr><td>つくしオニオンリング <img class=tukusi src="ソフトウェア工学image/つくしオニオンリング.png"></td><td>¥300</td></tr>
+  <tr><td>つくしお子様ランチ <img class=tukusi src="ソフトウェア工学image/つくしお子様ランチ.png"></td><td>¥1,000</td></tr>
+  <tr><td>つくしタンドリーチキン <img class=tukusi src="ソフトウェア工学image/つくしタンドリーチキン.png"></td><td>¥500</td></tr>
+  <tr><td>つくしパスタ <img class=tukusi src="ソフトウェア工学image/つくしパスタ.png"></td><td>¥800</td></tr>
+  <tr><td>つくし焼きそば <img class=tukusi src="ソフトウェア工学image/つくし焼きそば.png"></td><td>¥700</td></tr>
+  <tr><td>つくしシェイク <img class=tukusi src="ソフトウェア工学image/つくしシェイク.png"></td><td>¥200</td></tr>
 </table>
 
 #### ドリンク各種
 ![ドリンク](ソフトウェア工学image/thumbnail_coffee.jpg)
 ¥400
+
+#### つくしカフェ
+![つくしカフェ](ソフトウェア工学image/つくしカフェ.png)
