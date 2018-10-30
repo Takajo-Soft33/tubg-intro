@@ -28,7 +28,7 @@ title: フード＆レストラン
     height: 2000px;
     max-width: none;
     position: relative;
-    left: 50%;
+    /*left: 50%;*/
     top: 50%;
     transform: translate(-50%, -50%);
   }
@@ -42,8 +42,8 @@ title: フード＆レストラン
   <tr><td>つくしタンドリーチキン <div class="tukusi"><img src="ソフトウェア工学image/つくしタンドリーチキン.png"></div></td><td>¥300</td></tr>
   <tr><td>つくしパスタ <div class="tukusi"><img src="ソフトウェア工学image/つくしパスタ.png"></div></td><td>¥400</td></tr>
   <tr><td>つくし焼きそば <div class="tukusi"><img src="ソフトウェア工学image/つくし焼きそば.png"></div></td><td>¥300</td></tr>
-  <tr><td>つくしピザ <div class="tukusi"><img src="ソフトウェア工学image/つくしピザ.png"></div></td><td>¥400</td></tr>
-  <tr><td>つくしサラダ <div class="tukusi"><img src="ソフトウェア工学image/つくしサラダ.png"></div></td><td>¥200</td></tr>
+  <tr><td>つくしピザ <div class="tukusi"><img src="ソフトウェア工学image/つくしピザ.png" style="left: 0%"></div></td><td>¥400</td></tr>
+  <tr><td>つくしサラダ <div class="tukusi"><img src="ソフトウェア工学image/つくしサラダ.png" style="left: 0%"></div></td><td>¥200</td></tr>
   <tr><td>つくしステーキ <div class="tukusi"><img src="ソフトウェア工学image/つくしステーキ.png"></div></td><td>¥600</td></tr>
   <tr><td>つくしハンバーガー <div class="tukusi"><img src="ソフトウェア工学image/つくしハンバーガー.png"></div></td><td>¥300</td></tr>
   <tr><td>つくしハンバーグ <div class="tukusi"><img src="ソフトウェア工学image/つくしハンバーグ.png"></div></td><td>¥500</td></tr>
