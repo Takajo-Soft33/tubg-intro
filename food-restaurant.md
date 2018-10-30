@@ -15,8 +15,8 @@ title: フード＆レストラン
   <tr><td>TUBGドリンク各種 <img alt="ドリンク" src="ソフトウェア工学image/thumbnail_coffee.jpg"></td><td>¥400</td></tr>
 </table>
 
-<h2>つくしカフェ<img src="ソフトウェア工学image/つくしカフェ.png"></h2>
-<style>.tukusi{display:block;width:360px;height:360px}</style>
+<style>.tukusi{display:block;width:360px;height:360px;object-fit:cover}</style>
+<h2>つくしカフェ<img class="tukusi" src="ソフトウェア工学image/つくしカフェ.png"></h2>
 ### メニュー
 <table class="table-striped">
   <tr><td>つくしオニオンリング <img class="tukusi" src="ソフトウェア工学image/つくしオニオンリング.png"></td><td>¥300</td></tr>
