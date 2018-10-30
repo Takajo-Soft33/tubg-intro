@@ -1,3 +1,8 @@
+---
+layout:default
+title:イベント
+---
+
 ## <10月>
 ### Halloween’s Battle of the Dead
 ![トリックオアトリート](ソフトウェア工学image/halloween_trickortreat.png)
