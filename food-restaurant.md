@@ -36,7 +36,7 @@ title: フード＆レストラン
 <h2>つくしカフェ<div class="tukusi"><img src="ソフトウェア工学image/つくしカフェ.png"></div></h2>
 ### メニュー
 <table class="table-striped">
-  <tr><td>つくしオニオンリング <div class="tukusi"><img src="ソフトウェア工学image/つくしオニオンリング.png"></div></td><td>¥300</td></tr>
+  <tr><td>つくしオニオンリング <div class="tukusi"><img src="ソフトウェア工学image/つくしオニオンリング.png"></div></td><td>¥300</td></tr>
   <tr><td>つくしお子様ランチ <div class="tukusi"><img src="ソフトウェア工学image/つくしお子様ランチ.png"></div></td><td>¥1,000</td></tr>
   <tr><td>つくしタンドリーチキン <div class="tukusi"><img src="ソフトウェア工学image/つくしタンドリーチキン.png"></div></td><td>¥500</td></tr>
   <tr><td>つくしパスタ <div class="tukusi"><img src="ソフトウェア工学image/つくしパスタ.png"></div></td><td>¥800</td></tr>
