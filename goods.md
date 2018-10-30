@@ -1,1 +1,1 @@
-<img src="ソフトウェア工学image/tubg君　グッズ.png" style="display: block">
+<img src="ソフトウェア工学image/tubgkun_goods.png" style="display: block">
