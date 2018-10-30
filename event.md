@@ -1,10 +1,12 @@
 ## <10月>
 ### Halloween’s Battle of the Dead
+![ハロウィンのかぼちゃ](ソフトウェア工学image/halloween_pumpkin1.png) ![ハロウィンのかぼちゃ](ソフトウェア工学image/halloween_trickortreat.png)
 ゾンビ、Mammy、悪い魔法使いなどが出てきて、襲いかかってきます！
 これらの敵をTrick or Treatしてしまいましょう。
 
 ## <12月>
 ### Santa’s Helper
+
 フィールド上の仲間たちと協力して、子供に夢をとどけましょう！
 
 ## <1月>
