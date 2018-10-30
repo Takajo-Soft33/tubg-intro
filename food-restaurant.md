@@ -10,14 +10,16 @@
 </table>
 
 #### つくしメニュー
+
 <style>.tukusi{display:block;width:360px;height:360px}</style>
+
 <table class="table-striped">
-  <tr><td>つくしオニオンリング <img class=tukusi src="ソフトウェア工学image/つくしオニオンリング.png"></td><td>¥300</td></tr>
-  <tr><td>つくしお子様ランチ <img class=tukusi src="ソフトウェア工学image/つくしお子様ランチ.png"></td><td>¥1,000</td></tr>
-  <tr><td>つくしタンドリーチキン <img class=tukusi src="ソフトウェア工学image/つくしタンドリーチキン.png"></td><td>¥500</td></tr>
-  <tr><td>つくしパスタ <img class=tukusi src="ソフトウェア工学image/つくしパスタ.png"></td><td>¥800</td></tr>
-  <tr><td>つくし焼きそば <img class=tukusi src="ソフトウェア工学image/つくし焼きそば.png"></td><td>¥700</td></tr>
-  <tr><td>つくしシェイク <img class=tukusi src="ソフトウェア工学image/つくしシェイク.png"></td><td>¥200</td></tr>
+  <tr><td>つくしオニオンリング <img class="tukusi" src="ソフトウェア工学image/つくしオニオンリング.png"></td><td>¥300</td></tr>
+  <tr><td>つくしお子様ランチ <img class="tukusi" src="ソフトウェア工学image/つくしお子様ランチ.png"></td><td>¥1,000</td></tr>
+  <tr><td>つくしタンドリーチキン <img class="tukusi" src="ソフトウェア工学image/つくしタンドリーチキン.png"></td><td>¥500</td></tr>
+  <tr><td>つくしパスタ <img class="tukusi" src="ソフトウェア工学image/つくしパスタ.png"></td><td>¥800</td></tr>
+  <tr><td>つくし焼きそば <img class="tukusi" src="ソフトウェア工学image/つくし焼きそば.png"></td><td>¥700</td></tr>
+  <tr><td>つくしシェイク <img class="tukusi" src="ソフトウェア工学image/つくしシェイク.png"></td><td>¥200</td></tr>
 </table>
 
 #### ドリンク各種
