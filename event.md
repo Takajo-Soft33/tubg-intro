@@ -1,7 +1,7 @@
----
+----
 layout:default
 title:イベント
----
+----
 
 ## <10月>
 ### Halloween’s Battle of the Dead
