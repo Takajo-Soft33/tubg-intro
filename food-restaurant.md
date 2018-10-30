@@ -15,14 +15,26 @@ title: フード＆レストラン
   <tr><td>TUBGドリンク各種 <img alt="ドリンク" src="ソフトウェア工学image/thumbnail_coffee.jpg"></td><td>¥400</td></tr>
 </table>
 
-<style>.tukusi{display:block;width:360px;height:360px;object-fit:cover}</style>
-<h2>つくしカフェ<img class="tukusi" src="ソフトウェア工学image/つくしカフェ.png"></h2>
+<style>
+  .tukusi{
+    width:180px;
+    height:180px;
+    overflow: hidden;
+  }
+  .tukusi > img {
+    position: relative;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+  }
+</style>
+<h2>つくしカフェ<div class="tukusi"><img src="ソフトウェア工学image/つくしカフェ.png"></div></h2>
 ### メニュー
 <table class="table-striped">
-  <tr><td>つくしオニオンリング <img class="tukusi" src="ソフトウェア工学image/つくしオニオンリング.png"></td><td>¥300</td></tr>
-  <tr><td>つくしお子様ランチ <img class="tukusi" src="ソフトウェア工学image/つくしお子様ランチ.png"></td><td>¥1,000</td></tr>
-  <tr><td>つくしタンドリーチキン <img class="tukusi" src="ソフトウェア工学image/つくしタンドリーチキン.png"></td><td>¥500</td></tr>
-  <tr><td>つくしパスタ <img class="tukusi" src="ソフトウェア工学image/つくしパスタ.png"></td><td>¥800</td></tr>
-  <tr><td>つくし焼きそば <img class="tukusi" src="ソフトウェア工学image/つくし焼きそば.png"></td><td>¥700</td></tr>
-  <tr><td>つくしシェイク <img class="tukusi" src="ソフトウェア工学image/つくしシェイク.png"></td><td>¥200</td></tr>
+  <tr><td>つくしオニオンリング <div class="tukusi"><img src="ソフトウェア工学image/つくしオニオンリング.png"></div></td><td>¥300</td></tr>
+  <tr><td>つくしお子様ランチ <div class="tukusi"><img src="ソフトウェア工学image/つくしお子様ランチ.png"></div></td><td>¥1,000</td></tr>
+  <tr><td>つくしタンドリーチキン <div class="tukusi"><img src="ソフトウェア工学image/つくしタンドリーチキン.png"></div></td><td>¥500</td></tr>
+  <tr><td>つくしパスタ <div class="tukusi"><img src="ソフトウェア工学image/つくしパスタ.png"></div></td><td>¥800</td></tr>
+  <tr><td>つくし焼きそば <div class="tukusi"><img src="ソフトウェア工学image/つくし焼きそば.png"></div></td><td>¥700</td></tr>
+  <tr><td>つくしシェイク <div class="tukusi"><img src="ソフトウェア工学image/つくしシェイク.png"></div></td><td>¥200</td></tr>
 </table>
