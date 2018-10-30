@@ -36,17 +36,17 @@ title: フード＆レストラン
 <h2>つくしカフェ<div class="tukusi"><img src="ソフトウェア工学image/つくしカフェ.png"></div></h2>
 ### メニュー
 <table class="table-striped">
-  <tr><td>つくしオニオンリング <div class="tukusi"><img src="ソフトウェア工学image/つくしオニオンリング.png"></div></td><td>¥300</td></tr>
-  <tr><td>つくしお子様ランチ <div class="tukusi"><img src="ソフトウェア工学image/つくしお子様ランチ.png"></div></td><td>¥1,000</td></tr>
-  <tr><td>つくしタンドリーチキン <div class="tukusi"><img src="ソフトウェア工学image/つくしタンドリーチキン.png"></div></td><td>¥500</td></tr>
-  <tr><td>つくしパスタ <div class="tukusi"><img src="ソフトウェア工学image/つくしパスタ.png"></div></td><td>¥800</td></tr>
-  <tr><td>つくし焼きそば <div class="tukusi"><img src="ソフトウェア工学image/つくし焼きそば.png"></div></td><td>¥700</td></tr>
-  <tr><td>つくしピザ <div class="tukusi"><img src="ソフトウェア工学image/つくしピザ.png"></div></td><td>¥800</td></tr>
-  <tr><td>つくしサラダ <div class="tukusi"><img src="ソフトウェア工学image/つくしサラダ.png"></div></td><td>¥300</td></tr>
-  <tr><td>つくしステーキ <div class="tukusi"><img src="ソフトウェア工学image/つくしステーキ.png"></div></td><td>¥1,200</td></tr>
-  <tr><td>つくしハンバーガー <div class="tukusi"><img src="ソフトウェア工学image/つくしハンバーガー.png"></div></td><td>¥600</td></tr>
-  <tr><td>つくしハンバーグ <div class="tukusi"><img src="ソフトウェア工学image/つくしハンバーグ.png"></div></td><td>¥900</td></tr>
+  <tr><td>つくしオニオンリング <div class="tukusi"><img src="ソフトウェア工学image/つくしオニオンリング.png"></div></td><td>¥200</td></tr>
+  <tr><td>つくしお子様ランチ <div class="tukusi"><img src="ソフトウェア工学image/つくしお子様ランチ.png"></div></td><td>¥500</td></tr>
+  <tr><td>つくしタンドリーチキン <div class="tukusi"><img src="ソフトウェア工学image/つくしタンドリーチキン.png"></div></td><td>¥300</td></tr>
+  <tr><td>つくしパスタ <div class="tukusi"><img src="ソフトウェア工学image/つくしパスタ.png"></div></td><td>¥400</td></tr>
+  <tr><td>つくし焼きそば <div class="tukusi"><img src="ソフトウェア工学image/つくし焼きそば.png"></div></td><td>¥300</td></tr>
   <tr><td>つくしピザ <div class="tukusi"><img src="ソフトウェア工学image/つくしピザ.png"></div></td><td>¥400</td></tr>
-  <tr><td>つくしロコモコ <div class="tukusi"><img src="ソフトウェア工学image/つくしロコモコ.png"></div></td><td>¥800</td></tr>
-  <tr><td>つくしシェイク <div class="tukusi"><img src="ソフトウェア工学image/つくしシェイク.png"></div></td><td>¥200</td></tr>
+  <tr><td>つくしサラダ <div class="tukusi"><img src="ソフトウェア工学image/つくしサラダ.png"></div></td><td>¥200</td></tr>
+  <tr><td>つくしステーキ <div class="tukusi"><img src="ソフトウェア工学image/つくしステーキ.png"></div></td><td>¥600</td></tr>
+  <tr><td>つくしハンバーガー <div class="tukusi"><img src="ソフトウェア工学image/つくしハンバーガー.png"></div></td><td>¥300</td></tr>
+  <tr><td>つくしハンバーグ <div class="tukusi"><img src="ソフトウェア工学image/つくしハンバーグ.png"></div></td><td>¥500</td></tr>
+  <tr><td>つくしピザ <div class="tukusi"><img src="ソフトウェア工学image/つくしピザ.png"></div></td><td>¥200</td></tr>
+  <tr><td>つくしロコモコ <div class="tukusi"><img src="ソフトウェア工学image/つくしロコモコ.png"></div></td><td>¥400</td></tr>
+  <tr><td>つくしシェイク <div class="tukusi"><img src="ソフトウェア工学image/つくしシェイク.png"></div></td><td>¥100</td></tr>
 </table>
