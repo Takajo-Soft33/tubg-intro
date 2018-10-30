@@ -39,7 +39,7 @@ title: フード＆レストラン
   <tr><td>つくしオニオンリング <div class="tukusi"><img src="ソフトウェア工学image/つくしオニオンリング.png"></div></td><td>¥300</td></tr>
   <tr><td>つくしお子様ランチ <div class="tukusi"><img src="ソフトウェア工学image/つくしお子様ランチ.png"></div></td><td>¥1,000</td></tr>
   <tr><td>つくしタンドリーチキン <div class="tukusi"><img src="ソフトウェア工学image/つくしタンドリーチキン.png"></div></td><td>¥500</td></tr>
-  <tr><td>つくしパスタ <div class="tukusi"><img src="ソフトウェア工学image/つくしパスタ.png"></div></td><td>¥800</td></tr>
-  <tr><td>つくし焼きそば <div class="tukusi"><img src="ソフトウェア工学image/つくし焼きそば.png"></div></td><td>¥700</td></tr>
+  <tr><td>つくしパスタ <div class="tukusi"><img src="ソフトウェア工学image/つくしパスタ.png"></div></td><td>¥800</td></tr>
+  <tr><td>つくし焼きそば <div class="tukusi"><img src="ソフトウェア工学image/つくし焼きそば.png"></div></td><td>¥700</td></tr>
   <tr><td>つくしシェイク <div class="tukusi"><img src="ソフトウェア工学image/つくしシェイク.png"></div></td><td>¥200</td></tr>
 </table>
