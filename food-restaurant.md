@@ -33,7 +33,7 @@ title: フード＆レストラン
     transform: translate(-50%, -50%);
   }
 </style>
-
+<!--
 <h2>つくしカフェ<div class="tukusi"><img src="ソフトウェア工学image/つくしカフェ.png"></div></h2>
 ### メニュー
 <table class="table-striped">
@@ -51,3 +51,4 @@ title: フード＆レストラン
   <tr><td>つくしロコモコ <div class="tukusi"><img src="ソフトウェア工学image/つくしロコモコ.png"></div></td><td>¥400</td></tr>
   <tr><td>つくしシェイク <div class="tukusi"><img src="ソフトウェア工学image/つくしシェイク.png"></div></td><td>¥100</td></tr>
 </table>
+-->
