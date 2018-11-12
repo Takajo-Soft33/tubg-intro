@@ -4,6 +4,7 @@ title: イベント
 ---
 
 ## <10月>
+---
 ### Halloween’s Battle of the Dead
 <img alt="hal" src="ソフトウェア工学image/halloween_trickortreat.png" width="60%">
 <br>
@@ -12,6 +13,7 @@ title: イベント
 <br>
 
 ## <12月>
+---
 ### Santa’s Helper
 <img alt="hal" src="ソフトウェア工学image/christmas_santa_present.png" width="40%">
 <br>
@@ -19,6 +21,7 @@ title: イベント
 <br>
 
 ## <1月>
+---
 ### TUBG’s Grand Battle Royale
 <img alt="hal" src="ソフトウェア工学image/survival_game.png" width="50%">
 <br>
@@ -27,6 +30,7 @@ title: イベント
 <br>
 
 ## <2月>
+---
 ### Wizard’s Magic Showdown
 ![魔法少女](ソフトウェア工学image/majo_girl_majokko.png)
 <br>
@@ -35,6 +39,7 @@ title: イベント
 <br>
 
 ## <4月>
+---
 ### Easter’s Hunter
 <img alt="hal" src="ソフトウェア工学image/pyoko_easter_egg.png" width="40%">
 <br>
