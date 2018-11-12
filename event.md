@@ -10,7 +10,7 @@ title: イベント
 <br>
 ゾンビ、Mammy、悪い魔法使いなどが出てきて、襲いかかってきます！<br>
 これらの敵をTrick or Treatしてしまいましょう！！
-<br>
+<br><br>
 
 ## <12月>
 ---
@@ -18,7 +18,7 @@ title: イベント
 <img alt="hal" src="ソフトウェア工学image/christmas_santa_present.png" width="40%">
 <br>
 フィールド上の仲間たちと協力して、子供に夢をとどけましょう！
-<br>
+<br><br>
 
 ## <1月>
 ---
@@ -27,7 +27,7 @@ title: イベント
 <br>
 一年一回のグランドバトル<br>
 他のプレイヤーをなぎ倒して真のチャンピオンになろう！
-<br>
+<br><br>
 
 ## <2月>
 ---
@@ -36,10 +36,12 @@ title: イベント
 <br>
 今月は銃ではなく、魔法を使って戦おう！<br>
 最強の敵 voldemortが襲ってくるかもしれない！？
-<br>
+<br><br>
+
 
 ## <4月>
 ---
+
 ### Easter’s Hunter
 <img alt="hal" src="ソフトウェア工学image/pyoko_easter_egg.png" width="40%">
 <br>
