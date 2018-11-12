@@ -5,21 +5,19 @@ title: イベント
 
 ## <10月>
 ### Halloween’s Battle of the Dead
-![トリックオアトリート](ソフトウェア工学image/halloween_trickortreat.png)
+<img alt="hal" src="ソフトウェア工学image/halloween_trickortreat.png" width="60%">
 
 ゾンビ、Mammy、悪い魔法使いなどが出てきて、襲いかかってきます！
 これらの敵をTrick or Treatしてしまいましょう。
 
 ## <12月>
 ### Santa’s Helper
-![サンタのプレゼント](ソフトウェア工学image/christmas_santa_present.png)
-
+<img alt="hal" src="ソフトウェア工学image/christmas_santa_present.png" width="40%">
 フィールド上の仲間たちと協力して、子供に夢をとどけましょう！
 
 ## <1月>
 ### TUBG’s Grand Battle Royale
-![サバイバル](ソフトウェア工学image/survival_game.png)
-
+<img alt="hal" src="ソフトウェア工学image/survival_game.png" width="50%">
 一年一回のグランドバトル
 他のプレイヤーをなぎ倒して真のチャンピオンになろう！
 
@@ -32,7 +30,6 @@ title: イベント
 
 ## <4月>
 ### Easter’s Hunter
-![恐ろしいウサギ](ソフトウェア工学image/pyoko_easter_egg.png)
-
+<img alt="hal" src="ソフトウェア工学image/pyoko_easter_egg.png" width="40%">
 今月は卵が登場！その卵の中にはお宝があるかもしれない！？
 しかし、その卵の前に立ちふさがるうさぎが…
